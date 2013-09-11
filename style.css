@@ -1,0 +1,18 @@
+/*
+ Theme Name:     Rynobot child theme bootstrap
+ Theme URI:      http://rynobot.com
+ Description:    A child theme bootstrap by Ryan Ott
+ Author:         Ryan Ott
+ Author URI:     http://ryanott.net
+ Template:       Parent Theme Name
+ Version:        1.0.0
+ License:        GPL2
+*/
+
+/* =Imports styles from the parent theme
+-------------------------------------------------------------- */
+@import url('../YOUR_PARENT_THEME/style.css');
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
